@@ -49,3 +49,5 @@ body,header,.services,.expect,.contact{background:var(--paper)}
  footer{padding-top:30px;padding-bottom:30px;grid-template-columns:1fr auto;gap:22px;align-items:center}footer .brand{grid-column:1;grid-row:1;justify-self:start}footer>a:last-child{grid-column:2;grid-row:1;font-size:12px;min-height:44px;display:flex;align-items:center}footer p{grid-column:1/-1;grid-row:2;text-align:left;font-size:12px;line-height:1.8}footer>span{grid-column:1/-1;grid-row:3;font-size:11px}
 }
 @media(max-width:360px){.hero h1{font-size:36px}.founder-identity{gap:13px}.founder h2{font-size:26px}.founder-monogram{flex-basis:63px;height:88px}.contact h2{font-size:41px}.visual-service-copy{padding-left:20px;padding-right:20px}.concept-visual{height:305px}.consult-title{font-size:39px}}
+
+.founder-links{display:flex;align-items:center;flex-wrap:wrap;gap:12px 25px}.founder-links .linkedin-link{display:inline-flex;align-items:center;min-height:44px;margin-top:0;font-size:12px;padding:6px 0}.founder-links .text-link{min-height:44px}
