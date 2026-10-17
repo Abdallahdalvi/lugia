@@ -1,0 +1,14 @@
+# Website illustrations
+
+Created with the built-in ImageGen tool. The generated originals were copied into this project.
+
+- Hero: `dist/assets/creative-world.png`
+- Six service illustrations: `dist/assets/services-atlas.png`, displayed as individual scenes through CSS background positioning.
+
+## Hero prompt
+
+Use case: stylized-concept. Create a premium editorial 3D illustration for a Mumbai creative marketing agency website, landscape 3:2 composition. A playful yet sophisticated creative workstation made of tactile matte ivory and sand-colored sculptural objects: oversized sculptural pencil, rolled paper curling upward, floating browser window with purely abstract layout blocks, a small camera with lens, circular target, megaphone and elegant upward swooping ribbon. Compose into an airy, beautifully art-directed still life with interesting layered depth and soft studio shadows. Palette strictly off-white background #faf9f6, warm beige, oat, sand, taupe and small dark espresso accents. No green, no bright colors. Soft clay and paper textures, high-end Octane render style, objects feel crafted rather than generic stock icons. Background very light offwhite, spacious composition, strongest subjects centered and lower half, no text, no letters, no logos, no words, no watermark. This is a standalone website hero artwork, NOT a website screenshot.
+
+## Service illustration prompt
+
+Use case: stylized-concept. Asset type: six-cell illustration sprite sheet for a creative marketing agency website. ONE landscape image arranged as an exact 3 column by 2 row grid of six equally sized square cells, no visible dividing lines, no gutters, no margins between cells. Background all cells exactly warm offwhite #faf9f6. Each scene completely contained within its own square with ample 15% safe padding, centered isolated compositions, no objects crossing cell boundaries. Same premium tactile 3D clay and paper sculptural style throughout, soft realistic shadows, warm beige oat sand and taupe, small dark espresso details, no green and no bright colors. Top left: content creation, a sculptural film camera with play button card and folded paper. Top middle: brand design, elegant swatch fan and giant fountain pen nib with a small abstract curving ribbon. Top right: marketing strategy, chess knight beside a curved path to a flag. Bottom left: SEO, a large magnifying glass over miniature browser cards and a small target. Bottom middle: AI discovery, an elegant floating connected cluster of matte rounded nodes and small star-like sparkles. Bottom right: online business optimisation, miniature storefront with arched doorway, abstract shopping bag and rising step blocks. Beautiful agency-level art direction, rich dimensional forms and natural material textures. No text, no letters, no numbers, no logos, no watermark. Do not add titles or labels. Exactly SIX scenes each occupying one cell in the described row order.
