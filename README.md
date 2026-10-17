@@ -25,6 +25,10 @@ Deploy `dist/` as a static website. The enquiry form opens an email draft in the
 
 ## Contact
 
-Mohammed Dalvi · +91 74002 39134 · lugiainternational@gmail.com
+Mohammed Dalvi · lugiainternational@gmail.com
 
-Reyhaan Terrace, Jogeshwari West, Mumbai, Maharashtra, India.
+- India (calls): +91 9619958707
+- Qatar (calls and WhatsApp): +974 39905907
+- WhatsApp: https://wa.me/97439905907
+
+Rooted in India and Qatar.
