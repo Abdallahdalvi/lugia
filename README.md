@@ -32,3 +32,7 @@ Mohammed Dalvi · lugiainternational@gmail.com
 - WhatsApp: https://wa.me/97439905907
 
 Rooted in India and Qatar. Serving remote projects across India, Qatar, Puerto Rico, Brazil, the USA, the UK, Italy, Spain and Australia.
+
+## Careers
+
+`dist/careers/index.html` lists the Digital Marketing Executive opening (on-site / hybrid). The application form prepares an email to lugiainternational@gmail.com. Applicants review the email, attach their CV if needed, and send it themselves. No applications or CVs are stored by the website. Edit the job details in this page when hiring terms or availability change.
