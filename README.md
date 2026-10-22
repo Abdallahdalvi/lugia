@@ -31,7 +31,7 @@ Mohammed Dalvi · lugiainternational@gmail.com
 - Qatar (calls and WhatsApp): +974 39905907
 - WhatsApp: https://wa.me/97439905907
 
-Rooted in India and Qatar. Serving remote projects across India, Qatar, Puerto Rico, Brazil, the USA, the UK, Italy, Spain and Australia.
+Working globally. Serving projects across India, Qatar, Puerto Rico, Brazil, the USA, the UK, Italy, Spain and Australia.
 
 ## Careers
 
